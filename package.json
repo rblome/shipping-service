@@ -1,7 +1,7 @@
 {
     "name": "shipping-service-34",
     "version": "0.0.1",
-    "description": "coursework: Lab 2 solution of demouser34",
+    "description": "coursework: Lab solutions of demouser34",
     "main": "index.js",
     "scripts": {
         "test": "jest tests",
