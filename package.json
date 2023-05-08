@@ -25,7 +25,7 @@
         "npm": "5.6.x"
     },
     "dependencies": {
-        "axios": "^0.18.0",
+        "axios": "^0.21.2",
         "express": "^4.16.4",
         "jest": "^24.1.0"
     },
